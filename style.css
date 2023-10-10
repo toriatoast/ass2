@@ -92,6 +92,15 @@ a.active,a:hover{
     padding-top:100%;
     padding: 2em 1em;
 } 
+
+.top-header-about {
+    width: 100;
+    background-image: url(images/flower.png);
+    background-size: cover;
+    background-position: center;
+    height: 280px;
+    padding-top: 100px;
+}
   
 .card-single {
     display: column;
@@ -193,7 +202,7 @@ a.active,a:hover{
 }
 
 .btn + .btn {
-    margin-left: .25rem;
+    margin-left: 0.5rem;
 }
 
 
