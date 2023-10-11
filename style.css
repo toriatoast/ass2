@@ -1,7 +1,6 @@
 body {
     margin: 0;
     background: #1D3B58;
-
     font-weight: 300;
 }
 
@@ -46,10 +45,7 @@ label.logo{
 
 }
 
-/*nav {
-    float: right;
-}*/
-
+/* nav bar stuff */
 nav ul {
     float:right;
     margin: 0;
@@ -81,6 +77,7 @@ a.active,a:hover{
     transition: .5s
 }
 
+/* header image styling */
 .top-header {
     width: 100;
     background-image: url(images/header3.png);
@@ -169,7 +166,6 @@ a.active,a:hover{
     aspect-ratio: 16/9;
     object-fit: cover;
 }
-
 
 .card-body {
     font-size: 1rem;
